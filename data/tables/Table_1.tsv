@@ -1,0 +1,6 @@
+Evidence set	Material and unit	HLA or linkage	Use in the analysis
+Archived islet study	Published cytokine exposure protocol. Seven full-spectrum acquisitions, five tissue-resolved and gate-passing	Four mapped donors in the resolved set, including two with two-field typing	Donor-level endpoint analysis. The low-recovery control and W632 were excluded from the primary analysis.
+IPF lung cohort	12 acquisitions, six passing the reference gate. All passing acquisitions belong to the fibrotic arm	Main and reversed sample-linkage scenarios are inferred	Assessment of sample linkage and the within-donor two-spectrum rule.
+External islets	Two untreated primary preparations from non-diabetic donors. 355/356 and 358/359 are technical pairs	HLA-A*02 and A*03 family only	Exact candidate screen, pairwise reference recovery and recurrence across preparations
+JY eluate	One selected DDA acquisition at each dilution. Precursor window 400–650 m/z	Cell-line source ligands detected in the undiluted run	Conditional recovery within the dilution experiment
+PDAC reference spectra	Primary PDAC specimen and PDAC organoid	Candidate restriction from source-study prediction	Cross-form comparison of the recurrent islet feature with source evidence

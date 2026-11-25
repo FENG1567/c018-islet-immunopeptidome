@@ -1,0 +1,7 @@
+﻿"panel","mark","group","value","unit","source_path","source_row_or_selector","notes"
+"a","≥1 spectrum(s)","1:1 dilution","4171/4171 (1.0)","recovery fraction","S3/jy_aligned_recovery.tsv","14","One DDA acquisition per dilution; source-reference recovery, not candidate-specific sensitivity."
+"a","≥1 spectrum(s)","1:4 dilution","2933/4171 (0.7031887)","recovery fraction","S3/jy_aligned_recovery.tsv","18","One DDA acquisition per dilution; source-reference recovery, not candidate-specific sensitivity."
+"a","≥1 spectrum(s)","1:16 dilution","1475/4171 (0.3536322)","recovery fraction","S3/jy_aligned_recovery.tsv","22","One DDA acquisition per dilution; source-reference recovery, not candidate-specific sensitivity."
+"a","≥2 spectrum(s)","1:1 dilution","2630/4171 (0.6305442)","recovery fraction","S3/jy_aligned_recovery.tsv","15","One DDA acquisition per dilution; source-reference recovery, not candidate-specific sensitivity."
+"a","≥2 spectrum(s)","1:4 dilution","2015/4171 (0.4830976)","recovery fraction","S3/jy_aligned_recovery.tsv","19","One DDA acquisition per dilution; source-reference recovery, not candidate-specific sensitivity."
+"a","≥2 spectrum(s)","1:16 dilution","964/4171 (0.2311196)","recovery fraction","S3/jy_aligned_recovery.tsv","23","One DDA acquisition per dilution; source-reference recovery, not candidate-specific sensitivity."

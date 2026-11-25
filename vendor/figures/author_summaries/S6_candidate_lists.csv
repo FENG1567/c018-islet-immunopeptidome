@@ -1,0 +1,3 @@
+mark,value,source_path,source_line_or_selector,notes
+CR set,517,Ely et al. Supplementary Table S6,all unique cancer-restricted sequences,Boolean cancer-restricted flag and exact-sequence deduplication.
+assay subset,33,Ely et al. Supplementary Tables S6 and S10,exact sequence overlap,Exact overlap with the source CTL-assessed sequence set.

@@ -1,0 +1,7 @@
+﻿"panel","mark","group","value","unit","source_path","source_row_or_selector","notes"
+"a/b","spectra per sample","S1_passing; PF2","1","distinct MS/MS events","S2/ILMILQPQL_donor_HLA_S1_S2.tsv","2","Mapped donor=IPF2; HLA=False; source alias verified=False."
+"a/b","spectra per sample","S1_passing; PF5","2","distinct MS/MS events","S2/ILMILQPQL_donor_HLA_S1_S2.tsv","3","Mapped donor=IPF5; HLA=True; source alias verified=False."
+"a/b","spectra per sample","S1_passing; PF7","1","distinct MS/MS events","S2/ILMILQPQL_donor_HLA_S1_S2.tsv","4","Mapped donor=IPF7; HLA=True; source alias verified=False."
+"a/b","spectra per sample","S2_reversed; PF2","1","distinct MS/MS events","S2/ILMILQPQL_donor_HLA_S1_S2.tsv","5","Mapped donor=IPF12; HLA=unknown_unmapped; source alias verified=."
+"a/b","spectra per sample","S2_reversed; PF5","2","distinct MS/MS events","S2/ILMILQPQL_donor_HLA_S1_S2.tsv","6","Mapped donor=IPF9; HLA=unknown_unmapped; source alias verified=."
+"a/b","spectra per sample","S2_reversed; PF7","1","distinct MS/MS events","S2/ILMILQPQL_donor_HLA_S1_S2.tsv","7","Mapped donor=IPF7; HLA=True; source alias verified=False."

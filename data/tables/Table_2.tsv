@@ -1,0 +1,11 @@
+Analysis set	Eligibility scenario	Any / two candidates	Result under the specified rule
+NC2025 islets	Two-field HLA, W632 excluded	49 / 1	0 / 0 qualifying candidates
+NC2025 islets	Ligand-allele union, W632 excluded	161 / 14	0 / 0 qualifying candidates
+NC2025 islets	Two-field HLA, historical mapping	93 / 9	0 / 0 qualifying candidates
+NC2025 islets	Historical ligand-allele union	174 / 49	0 / 0 qualifying candidates
+PDAC islets	Two-field HLA, W632 excluded	140 / 19	Native unmodified scope 131 / 19. Three compatible single-spectrum assignments. Zero qualifying candidates for either donor endpoint.
+PDAC islets	Ligand-allele union, W632 excluded	199 / 20	Coverage sensitivity only
+PDAC islets	Two-field HLA, historical mapping	252 / 22	Coverage sensitivity only
+PDAC islets	Historical ligand-allele union	260 / 73	Coverage sensitivity only
+NC2025 IPF lung	Main inferred linkage, gate passing	71 / 50	One unresolved signal. No qualifying two-donor recurrence
+NC2025 IPF lung	Reversed inferred linkage, gate passing	51 / 36	PF5 maps to an untyped donor. No two-spectrum call in a typed compatible donor

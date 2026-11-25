@@ -1,0 +1,50 @@
+metric	expected_value	tolerance	evidence_type	source
+pdac_matrix_rows	2585	0	recomputed	locked v4R1; Table S2 exact candidate-run matrix
+pdac_distinct_sequences	517	0	recomputed	locked v4R1; Table 2 and Table S2
+pdac_distinct_runs	5	0	recomputed	locked v4R1; Table S2 exact candidate-run matrix
+pdac_exact_hla_eligible_any	140	0	recomputed	locked v4R1; Table 2 exact-typed donor coverage
+pdac_exact_hla_eligible_both	19	0	recomputed	locked v4R1; Table 2 exact-typed donor coverage
+pdac_native_scope_exact_hla_eligible_any	131	0	recomputed	locked v4R1; Table 2 native unmodified search scope
+pdac_native_scope_exact_hla_eligible_both	19	0	recomputed	locked v4R1; Table 2 native unmodified search scope
+pdac_accepted_exact_scans_total	5	0	recomputed	locked v4R1; Table S2 exact scan matches
+pdac_accepted_exact_scans_exact_hla_compatible	3	0	recomputed	locked v4R1; Table S2 exact-typed compatible scan matches
+pdac_native_scope_any_endpoint_detected	0	0	recomputed	locked v4R1; Table 2 strict any-donor endpoint
+pdac_native_scope_any_endpoint_denominator	131	0	recomputed	locked v4R1; Table 2 strict any-donor endpoint
+pdac_native_scope_both_endpoint_detected	0	0	recomputed	locked v4R1; Table 2 strict two-donor endpoint
+pdac_native_scope_both_endpoint_denominator	19	0	recomputed	locked v4R1; Table 2 strict two-donor endpoint
+aetsa_exact_hla_any_eligible	49	0	recomputed	locked v4R1; Table S2 tissue-resolved exact-HLA aeTSA endpoint
+aetsa_exact_hla_any_legacy_detected	0	0	recomputed	locked v4R1; Table S2 tissue-resolved exact-HLA aeTSA endpoint
+aetsa_exact_hla_any_q01_detected	0	0	recomputed	locked v4R1; Table S2 tissue-resolved exact-HLA aeTSA endpoint
+aetsa_exact_hla_both_eligible	1	0	recomputed	locked v4R1; Table S2 tissue-resolved exact-HLA aeTSA endpoint
+aetsa_exact_hla_both_legacy_detected	0	0	recomputed	locked v4R1; Table S2 tissue-resolved exact-HLA aeTSA endpoint
+aetsa_exact_hla_both_q01_detected	0	0	recomputed	locked v4R1; Table S2 tissue-resolved exact-HLA aeTSA endpoint
+jy_conditional_recovery_numerator	964	0	carried-through	locked v4R1; Table S3 JY aligned recovery at 1:16 and test scans >=2
+jy_conditional_recovery_denominator	4171	0	carried-through	locked v4R1; Table S3 JY aligned recovery at 1:16 and test scans >=2
+jy_conditional_recovery_fraction	0.2311196356	0.00000001	recomputed	locked v4R1; 964 recovered of 4,171 reference ligands
+jy_model_assumed_prevalence	0.2	0.00000001	carried-through	locked v4R1; conditional-transfer model assumption
+jy_conditional_model_any_eligible	49	0	recomputed	locked v4R1; Table S3 tissue-resolved any-donor model
+jy_conditional_model_any_P_zero	0.0947070583	0.00000001	recomputed	locked v4R1; Table S3 tissue-resolved any-donor model
+jy_conditional_model_both_eligible	1	0	recomputed	locked v4R1; Table S3 tissue-resolved two-donor model
+jy_conditional_model_both_P_zero	0.9893167428	0.00000001	recomputed	locked v4R1; Table S3 tissue-resolved two-donor model
+pdac_external_legacy_any_preparation	11	0	recomputed	locked v4R1; Table S4 external family-supported PDAC summary
+pdac_external_legacy_both_preparations	2	0	recomputed	locked v4R1; Table S4 external family-supported PDAC summary
+pdac_external_pride_any_preparation	9	0	recomputed	locked v4R1; Table S4 external family-supported PDAC summary
+pdac_external_pride_both_preparations	1	0	recomputed	locked v4R1; Table S4 external family-supported PDAC summary
+pdac_external_family_supported_candidates	122	0	recomputed	locked v4R1; Table S4 external family-supported PDAC denominator
+pdac_external_all_four_targets_passing	1	0	recomputed	locked v4R1; Table S4 joint matched-null sequence evidence
+pdac_external_all_four_targets_denominator	122	0	recomputed	locked v4R1; Table S4 joint matched-null sequence evidence
+pdac_external_all_four_matched_nulls_passing	0	0	recomputed	locked v4R1; Table S4 joint matched-null sequence evidence
+pdac_external_all_four_matched_nulls_denominator	1220	0	recomputed	locked v4R1; Table S4 joint matched-null sequence evidence
+lung_primary_any_eligible_candidates	71	0	carried-through	locked v4R1; Table S2 lung endpoints, S1-passing mapping
+lung_primary_any_signals_meeting_spectrum_criterion	1	0	carried-through	locked v4R1; Table S2 lung endpoints, unresolved PF5 signal
+lung_primary_any_confirmed_presentation_calls	0	0	carried-through	locked v4R1; Table S2 lung endpoints, S1-passing mapping
+lung_primary_both_eligible_candidates	50	0	carried-through	locked v4R1; Table S2 lung endpoints, S1-passing mapping
+lung_primary_both_signals_meeting_spectrum_criterion	0	0	carried-through	locked v4R1; Table S2 lung endpoints, S1-passing mapping
+lung_primary_both_confirmed_presentation_calls	0	0	carried-through	locked v4R1; Table S2 lung endpoints, S1-passing mapping
+lung_reversed_any_eligible_candidates	51	0	carried-through	locked v4R1; Table S2 lung endpoints, reversed S2 mapping
+lung_reversed_any_signals_meeting_spectrum_criterion	0	0	carried-through	locked v4R1; Table S2 lung endpoints, reversed S2 mapping
+lung_reversed_any_confirmed_presentation_calls	0	0	carried-through	locked v4R1; Table S2 lung endpoints, reversed S2 mapping
+lung_reversed_both_eligible_candidates	36	0	carried-through	locked v4R1; Table S2 lung endpoints, reversed S2 mapping
+lung_reversed_both_signals_meeting_spectrum_criterion	0	0	carried-through	locked v4R1; Table S2 lung endpoints, reversed S2 mapping
+lung_reversed_both_confirmed_presentation_calls	0	0	carried-through	locked v4R1; Table S2 lung endpoints, reversed S2 mapping
+targeted_extraction_median_auc	0.527	0.00000001	carried-through	locked v4R1; Table S3 reports median AUC without row-level source values

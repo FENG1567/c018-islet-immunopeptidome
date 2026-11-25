@@ -1,0 +1,7 @@
+Evidence group	Historical recipe	Metadata-adjusted recipe	Interpretation
+NC2025 aeTSA (39)	0 / 0	0 / 0	Exact unmodified hits in any / both preparations
+PDAC (122)	11 / 2	9 / 1	Potential family compatibility. Screen-level evidence
+SIASAISMK	1 + 1 and 1 + 1	1 + 1 and 1 + 1	Recurrent unresolved signal in two preparations
+HLLQEELLL	4 + 2 in islet22	2 + 0 in islet22	Recipe-sensitive single-preparation signal
+HIMPHRVQLK	1 + 2 in islet22	1 + 2 in islet22	Repeated sampling within one preparation
+Expanded matched-null search	1/122 targets, 0/1,220 shuffles	Separate historical-recipe diagnostic	I/L-grouped recurrence across four acquisitions. Candidate-class FDR unresolved

@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.mplconfig/
+build/
+input/
+*.raw
+*.mzML
+*.mgf
+*.mzid
+*.mzid.gz
+*.pep.xml
+*.log

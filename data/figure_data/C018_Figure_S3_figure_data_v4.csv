@@ -1,0 +1,3 @@
+﻿"panel","mark","group","value","unit","source_path","source_row_or_selector","notes"
+"a","candidate-versus-shuffle AUC","median AUC","0.527","AUC","S3/targeted_extraction_summary.tsv","2","The candidate label is not a ground-truth presentation label."
+"a","equal-ranking reference","AUC reference","0.5","AUC","AUC definition","equal-ranking reference","Reference line only; no inferred confidence interval."

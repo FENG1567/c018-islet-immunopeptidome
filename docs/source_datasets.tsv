@@ -1,0 +1,9 @@
+source	identifier	access_url	paper_doi	use	selected_inputs
+Nanaware et al.	MSV000093843	https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?accession=MSV000093843	10.1016/j.celrep.2025.115927	Archived cytokine-treated islets and ligand/donor controls	Source Tables S1 and S5; W632 acquisitions identified in C018 Table S1 including the HP20289 pair
+Carre et al.	PXD045211	https://www.ebi.ac.uk/pride/archive/projects/PXD045211	10.1038/s41467-025-55908-9	External untreated primary islets	MGF and source identifications for acquisitions 355 and 356 (islet22), 358 and 359 (islet27); source SDRF
+Bichmann et al.	PXD024809	https://www.ebi.ac.uk/pride/archive/projects/PXD024809	10.1136/jitc-2025-012083	JY conditional dilution recovery	Archived DDA 400–650 m/z; exact file and dilution selectors in C018 Table S3
+HLA Ligand Atlas	PXD019643	https://www.ebi.ac.uk/pride/archive/projects/PXD019643		Follow-up of two historical atlas entries	Depositor RESULT files
+Bai et al.	IPX0010835000	https://www.iprox.cn/page/project.html?id=IPX0010835000	10.1038/s41590-026-02501-x	Lung candidate endpoints and mapping sensitivity	Original study records; 12 acquisitions and two inferred mappings enumerated in C018 Tables S1 and S2
+Apavaloaei et al.	NC2025 source supplement	https://doi.org/10.1038/s43018-025-00979-2	10.1038/s43018-025-00979-2	Candidate membership and assigned HLA labels	Source supplementary candidate list
+Ely et al.	MSV000096853; PXD059832	https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?accession=MSV000096853	10.1126/science.adk3487	Exact PDAC list, predicted HLA restrictions and tumour comparison spectra	Source Tables S6 and S10; primary C3L-01031 scan 16793 and PANFR0151 organoid scan 16495
+Jargosch et al.	Source paper supplement	https://doi.org/10.1126/sciadv.adx0637	10.1126/sciadv.adx0637	Skin reference context only	Published peptide table

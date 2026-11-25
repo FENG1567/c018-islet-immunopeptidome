@@ -1,0 +1,4 @@
+﻿"panel","mark","group","value","unit","source_path","source_row_or_selector","notes"
+"a","candidate-list count","CR set","517","sequences","Ely et al. [2], Supplementary Table S6, unique cancer-restricted sequences","all data rows","Boolean cancer-restricted flag + exact sequence deduplication"
+"a","candidate-list count","assay subset","33","sequences","Ely et al. [2], Supplementary Tables S6 and S10, exact sequence overlap","all data rows","Exact sequence overlap with ST6"
+"a","restriction type","PDAC source list","source-predicted","HLA restriction","Ely et al. [2], Supplementary Table S6","candidate restriction annotations","Predictions are distinct from measured recipient/donor HLA typing."
